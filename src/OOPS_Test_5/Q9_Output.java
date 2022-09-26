@@ -7,7 +7,7 @@ class Animal{
 	}
 }
 class Dog extends Animal{
-	String name;
+	String name;                // becz here not initialize value so jvm provide by default values
 	String show() {
 		return name;
 	}
@@ -23,5 +23,4 @@ public class Q9_Output {
       }
 
 }
-
 //o/p=> null
