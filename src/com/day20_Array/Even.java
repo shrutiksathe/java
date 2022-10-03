@@ -1,0 +1,11 @@
+package com.day20_Array;
+
+public class Even {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+
+	}
+
+}
