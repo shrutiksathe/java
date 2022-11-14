@@ -9,13 +9,14 @@ public class RowSum {
 			System.out.print(a[i][j]+" ");
 		}
 		System.out.println("="+sum);
+		
 		System.out.println();
 	}
 	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int a[][]= {{4,5,2},{7,8,6},{1,2,4}};
+		int a[][]= {{4,5,2,5},{7,8,6,5},{1,2,4,5}};
 		RowSum.sumOfRow(a);
 
 	}

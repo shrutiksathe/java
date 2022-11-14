@@ -6,7 +6,6 @@ public class WordCount {
 		 String s[]=str.split("\\s"); // split String with space
 		 int count=0;
 		for(int i=0;i<s.length;i++) {
-			
 			System.out.println(s[i]);
 			count++;
 		}

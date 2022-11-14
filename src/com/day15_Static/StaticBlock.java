@@ -9,6 +9,7 @@ public class StaticBlock {
 		// TODO Auto-generated method stub
 		System.out.println("Main method");  //execute after static block
 		
+		
 	}
 	static {
 		System.out.println("Block2");      //execute first
