@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class EverySingleWordReverse { 
 	public static String reverseWord(String str ) {
 		String reverse=" ";
-		String s[]=str.split( " ");     //   word seperate by using space
+		String s[]=str.split(" ");     //   word seperate by using space
 		
 		for(int i=0;i<s.length;i++) {   // for full senetense
 			String word=s[i];

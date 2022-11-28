@@ -5,7 +5,7 @@ interface drwable{
 		System.out.println("Interface method");
 	}
 }
-class A implements drwable{
+class Z implements drwable{
 	static void m1() {
 		System.out.println("class method");
 	}

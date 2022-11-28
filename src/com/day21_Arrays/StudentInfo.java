@@ -28,6 +28,7 @@ public class StudentInfo {
 			int sid=sc.nextInt();
 			System.out.println("Enter the Name:-");
 			String sname=sc.next();
+			
 			int mk[]=new int[3];
 			for(int j=0;j<mk.length;j++) {
 				System.out.println("Enter the marks:-");
